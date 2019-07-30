@@ -1,0 +1,37 @@
+body{
+	font-family: 'Josefin Sans', sans-serif; font-size: 20px;
+	background-image: url("");
+}
+h2{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-style: italic;
+}
+.post-date{
+	background:  #D3D3D3 ;
+	padding: 4px;
+	margin: 3px 0;
+	display: block;
+}
+.post-thumb{
+	width: 100%;
+}
+
+.pagination-links{
+	margin: 30px 0;
+}
+
+a.pagination-links strong{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+a.pagination-links{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+	
+}
